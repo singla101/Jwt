@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JwtAuthDotNet9_New.props" />
+</Project>
